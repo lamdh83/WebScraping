@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "axiomatic-path-332502",
+  "private_key_id": "7991f7c4052f7ce109734890ee012a6b71ca9c2a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCTrAUYDJm0vGU6\nB5AOPB3h9QysVXY44t93xi90nKO+PSnLP5os6SXe2lQFRX9/7fYUBviDjkpuzSDE\nMXDdFMRgX1Xr4PqTGPTo+64MPxCtDZvSvhwL7qOScIUqYmYAI+FXLQI/I/mAj/QA\nHre4dA4XbHCIrAskQAaBp+RIjBdREcbuL6cMNQlVXRn2FFzH7DjdcZKXaMdNb37k\nxId6Bxslm+ew3xr8o7gf4gLMAP7n1ztTlCaw+jgB7ZcQdy+nkP3UWbAU21ARk+47\nhrmqBXpEGHvCklpJdGmDQo6rf+hHogsF8CkI8Qq34kEhK8q0Ui90rP0uUzcfHVYN\nzzk2obgNAgMBAAECggEAAz6kXgLo3a/GCaBg6e8oOO7JeH/oORfDET6pjEZk0qlF\nYdHj8ViuHFdvwS3lv0nbPlVo4Hsf549aSPVNJY5vQi7WFHi9CL5jozrkeCBqnWLP\nKbJDq39y2KTgSC4hT596NBApHHoN4WVIVzhVkRf7t0gKsPYWyJUfj3nA6lcpq/5P\ndDs88/VKp66SvxxJYHKWIW9M9Z9zTXa/z3M2iNE2gvXuJdFMtAiCY244B7BNs4x+\nWyOwSie7GrzqGej0+PHQUCIlVAaI2qZRsTUB2zJEyzuJFyCWkuokV3rY0njk+TDL\neO0koNZUBZjElKnPlIYr9rGeh3SiSZm50O8p6BUEAQKBgQDIoEyW6v8H/7DrQWnv\n2tKl2HyyR7V5ks3DALP2nxAoS8zuq1DkLAxzqDKU3enBeEa18rb6RfLIlgH+oUDm\nUDyGZDIrLfAHuOzWdSS0s6I3Ww7TosxOXked1p6OBMi/N6NHu+0ZYedfsFNkw7Ex\nD2aww48opC+hfR4xgto2Ic6TqQKBgQC8bh6V9iUvYkEVhHtn0V+EFQ7C/dmKAszi\nnGqGLuuwr8Y+C1e4thBv2yIDoqdZMgTN+hm4Ld6tj3j1Fn2YpcSZOaw8sZwxYVVB\nGoZz3A3uBWxxmzVjeUUbB86dkn/K0zyC+64pnI5+PixXIggRaCn8Z5c2e1q9xNa2\njwyvTee/xQKBgD4gFVducYbCkMBowys48Z3VideTCQkagojuAMxPuSshPdZySlw9\nn6V44iDjDu2QFyVkgXDClEm02e1Fddlb40IiaL6iPP/HLd/C6pjiP0sw8Uhr0yQ5\nYafou7Ryms9LpU4jTWpcvM8OxOQhDQ+KG1yFUiFdpjo1ilH+mR/GHDfxAoGAIGLM\n3vlvarV4ejpK+40A3bLA1sLKoO3aSRiZNnbaC4Qqjn9klFq2eIMxVW6fVLVEHiLe\nSMmZfDssjvNOou3a3HsNH2FndxVDkez9LuyjeEV2XhBPHMm7FupAmNSVIkcsH1ci\nmARQeWI2PMOcn2FH1hn342VQM02hmb78byT0sAECgYBkHBoCC1oyn0mChcLirHwP\nHhIMO0UkcalAyrgAPI7OiLmUpYm7NJ1biLWsaU2YRt2dzSiSRY5hnPKJyIEsPUvP\n16yALZe4x8Ro+i/BWeajCPs1XYhbIm0mQnm8KlIc3p9Ia7ZCraUN0aHoI7UOwZPG\nn2VI/A4DwzRAVFn6axB2iA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dohoailam@axiomatic-path-332502.iam.gserviceaccount.com",
+  "client_id": "109030440735946114242",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dohoailam%40axiomatic-path-332502.iam.gserviceaccount.com"
+}
